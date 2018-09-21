@@ -192,7 +192,7 @@
 
             </div>
 
-            <strong>Copyright © 2018 <a href="https://github.com/kirandz/invoice-verify">Irfan Hafid</a> - JKTOSN</strong>
+            <strong>Copyright © 2018 <a href="https://github.com/kirandz/invoice-verify" target="_blank">Irfan Hafid</a> - JKTOSN</strong>
             <b style="margin-left: 10px">v</b>1.02
 
         </footer>
